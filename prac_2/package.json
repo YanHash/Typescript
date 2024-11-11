@@ -1,0 +1,21 @@
+{
+  "name": "prac_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/pg": "^8.11.10",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.13.1"
+  }
+}
